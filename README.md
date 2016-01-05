@@ -5,6 +5,9 @@
 This application displays all contacts, user can add new contacts, edit or delete.
 User can also search contacts by Name,Email and Phone.
 
+##Demo
+https://contactman.herokuapp.com
+
 ## Prerequisites
 ### AngularJS
 I've used AngularJS library, because of Application architecture is in AngularJS.
